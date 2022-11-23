@@ -3,4 +3,3 @@ channels:
   - defaults
   - conda-forge
   - astropy
-prefix: /home/noa/SData/anaconda3/envs/venv-pgm
