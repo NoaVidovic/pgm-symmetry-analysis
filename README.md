@@ -11,4 +11,4 @@ repository, use `jupyter notebook`.
 
 ## MongoDB Database Restoration
 Assuming you already have the MongoDB CLI utilities installed and configured, to restore the database containing all
-the data used in this project, use `mongorestore dump/` within the cloned repository.
+the data used in this project, use `mongorestore dump/ --gzip` within the cloned repository.
